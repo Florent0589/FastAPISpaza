@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9d4d6f4-3751-4930-8f8b-57ca592fafff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tJN0DbsL6o92dtTYhBGMrYx1YM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SpazaFASTAPI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spaza" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spaza/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9d4d6f4-3751-4930-8f8b-57ca592fafff" name="Default Changelist" comment="" />
+      <created>1622483006884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622483006884</updated>
+      <workItem from="1622483011423" duration="1842000" />
+      <workItem from="1622486687393" duration="7616000" />
+      <workItem from="1622535267959" duration="4906000" />
+      <workItem from="1622564403063" duration="336000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="691" height="486" key="DebuggerActiveHint" timestamp="1622538271013">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="691" height="486" key="DebuggerActiveHint/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1622538271013" />
+    <state width="1324" height="239" key="GridCell.Tab.0.bottom" timestamp="1622539019441">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="239" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1622539019441" />
+    <state width="1324" height="233" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1622494109954" />
+    <state width="1324" height="233" key="GridCell.Tab.0.bottom/0.0.3286.728@0.0.3286.728" timestamp="1622528213489" />
+    <state width="1324" height="239" key="GridCell.Tab.0.center" timestamp="1622539019441">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="239" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1622539019441" />
+    <state width="1324" height="233" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1622494109953" />
+    <state width="1324" height="233" key="GridCell.Tab.0.center/0.0.3286.728@0.0.3286.728" timestamp="1622528213488" />
+    <state width="1324" height="239" key="GridCell.Tab.0.left" timestamp="1622539019441">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="239" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1622539019441" />
+    <state width="1324" height="233" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1622494109953" />
+    <state width="1324" height="233" key="GridCell.Tab.0.left/0.0.3286.728@0.0.3286.728" timestamp="1622528213488" />
+    <state width="1324" height="239" key="GridCell.Tab.0.right" timestamp="1622539019441">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="239" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1622539019441" />
+    <state width="1324" height="233" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1622494109954" />
+    <state width="1324" height="233" key="GridCell.Tab.0.right/0.0.3286.728@0.0.3286.728" timestamp="1622528213489" />
+    <state width="1324" height="239" key="GridCell.Tab.1.bottom" timestamp="1622539019442">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="239" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1622539019442" />
+    <state width="1324" height="233" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1622494109853" />
+    <state width="1324" height="233" key="GridCell.Tab.1.bottom/0.0.3286.728@0.0.3286.728" timestamp="1622528213490" />
+    <state width="1324" height="239" key="GridCell.Tab.1.center" timestamp="1622539019441">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="239" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1622539019441" />
+    <state width="1324" height="233" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1622494109852" />
+    <state width="1324" height="233" key="GridCell.Tab.1.center/0.0.3286.728@0.0.3286.728" timestamp="1622528213490" />
+    <state width="1324" height="239" key="GridCell.Tab.1.left" timestamp="1622539019441">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="239" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1622539019441" />
+    <state width="1324" height="233" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1622494109852" />
+    <state width="1324" height="233" key="GridCell.Tab.1.left/0.0.3286.728@0.0.3286.728" timestamp="1622528213490" />
+    <state width="1324" height="239" key="GridCell.Tab.1.right" timestamp="1622539019442">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="239" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1622539019442" />
+    <state width="1324" height="233" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1622494109852" />
+    <state width="1324" height="233" key="GridCell.Tab.1.right/0.0.3286.728@0.0.3286.728" timestamp="1622528213490" />
+    <state x="187" y="0" key="SettingsEditor" timestamp="1622488777751">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="187" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1622488777751" />
+    <state x="100" y="99" width="1166" height="528" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1622537878168">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="99" width="1166" height="528" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1622537878168" />
+    <state x="359" y="95" width="791" height="536" key="find.popup" timestamp="1622489847421">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="95" width="791" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1622489847421" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SpazaFASTAPI$main.coverage" NAME="main Coverage Results" MODIFIED="1622538146855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spaza" />
+  </component>
+</project>
