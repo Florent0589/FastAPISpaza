@@ -1,4 +1,4 @@
-from mongoengine import Document, StringField, IntField, FloatField
+from mongoengine import Document, StringField, IntField, FloatField, BooleanField
 from pydantic import BaseModel
 from typing import Optional, Union
 
@@ -22,4 +22,16 @@ class SaveOrder(Document):
     order_date = StringField()
     order_amount = FloatField
     billing_address = StringField()
-    status: StringField()
+    status = StringField()
+
+
+class Users(Document):
+    username = StringField()
+    first_name = StringField()
+    last_name = StringField()
+    email = StringField()
+    mobile_number = StringField()
+    type = StringField()
+    password = StringField()
+    billing_address = StringField()
+    status = BooleanField()

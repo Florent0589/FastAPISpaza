@@ -26,3 +26,24 @@ class SaveOrder(BaseModel):
     order_amount: int
     billing_address: int
     status: int
+
+
+class Token(BaseModel):
+    access_token: str
+    token_type: str
+
+
+class TokenData(BaseModel):
+    username: str = None
+
+
+class Users(BaseModel):
+    username: str
+    first_name: str
+    last_name: str
+    email: str
+    mobile_number: str
+    type: str
+    password: str
+    billing_address: str
+    status: bool
