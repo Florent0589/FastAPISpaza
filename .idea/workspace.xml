@@ -84,10 +84,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1925" y="0" width="791" height="723" key="CommitChangelistDialog2" timestamp="1622618697722">
+    <state x="1925" y="0" width="791" height="723" key="CommitChangelistDialog2" timestamp="1622618715957">
       <screen x="0" y="0" width="3286" height="728" />
     </state>
-    <state x="1925" y="0" width="791" height="723" key="CommitChangelistDialog2/0.0.3286.728@0.0.3286.728" timestamp="1622618697722" />
+    <state x="1925" y="0" width="791" height="723" key="CommitChangelistDialog2/0.0.3286.728@0.0.3286.728" timestamp="1622618715957" />
     <state width="691" height="486" key="DebuggerActiveHint" timestamp="1622538271013">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -149,6 +149,10 @@
     </state>
     <state x="187" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1622488777751" />
     <state x="1633" y="0" key="SettingsEditor/0.0.3286.728@0.0.3286.728" timestamp="1622618668020" />
+    <state x="1921" y="177" width="800" height="546" key="Vcs.Push.Dialog.v2" timestamp="1622618718405">
+      <screen x="0" y="0" width="3286" height="728" />
+    </state>
+    <state x="1921" y="177" width="800" height="546" key="Vcs.Push.Dialog.v2/0.0.3286.728@0.0.3286.728" timestamp="1622618718405" />
     <state x="100" y="99" width="1166" height="528" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1622537878168">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
